@@ -1,6 +1,14 @@
 # Hackintosh-K670D-G4E6
 Hackintosh for Hasse
 
+### 最新提示 wtf====>HD Graphic 610 核显
+
+Intel Pentium Gold G5420 使用的核显是Intel HD Graphic 610 
+现在基本没有办法驱动这个hd 610 核显，导致电脑特别的卡以及一些观感问题 
+加上这台电脑又是NVIDIA的独显，在macOS 10.13之后的版本已经没有NVIDIA的独显驱动适配了
+所以我打算将macOS版本降级到10.13.6版本
+
+
 ### 我安装的是macOS 版本为10.14.4
 
 | 配置 |                                                   |
