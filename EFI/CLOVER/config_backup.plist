@@ -130,7 +130,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 -disablegfxfirmware keepsyms=1 -v debug=0x100 igfxcflbklt=1</string>
+		<string>dart=0 nv_disable=1 -disablegfxfirmware keepsyms=1 -v debug=0x100</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -226,7 +226,7 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<false/>
+			<true/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
@@ -332,7 +332,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C028294054NJ0DXA8</string>
+		<string>C02751303QXJ0DXJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -362,9 +362,9 @@
 		<key>ProductName</key>
 		<string>iMac18,2</string>
 		<key>SerialNumber</key>
-		<string>C02X3HYRJ1G5</string>
+		<string>C02VV8Z6J1G5</string>
 		<key>SmUUID</key>
-		<string>B6FBB94C-AA28-47CC-B8A7-EC8EC57357DD</string>
+		<string>F24621E4-32CD-4621-9C21-2E1250898029</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
